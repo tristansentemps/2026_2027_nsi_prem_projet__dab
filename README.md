@@ -38,3 +38,7 @@ else:
 
 
 ca ca fonctionne normalement
+
+
+
+ok j'ai fait le script du distributeur j'veux bien que y'en ai un de vous deux qui face l'interface 
