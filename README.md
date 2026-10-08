@@ -2,7 +2,7 @@
 # projet de nsi : Abel, Henri et Tristan
 
 
-print("DISTRIBUTEUR DE BILLETS")
+print("ATM")
 
 argent = int(input("Montant à retirer : "))
 
